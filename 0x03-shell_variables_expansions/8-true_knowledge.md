@@ -1,0 +1,4 @@
+root@e88480e37837:/# #!/bin/bash
+root@e88480e37837:/# echo "$((128 + TRUEKNOWLEDGE))"
+128
+root@e88480e37837:/#
