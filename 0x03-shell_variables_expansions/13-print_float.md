@@ -1,4 +1,3 @@
-root@e88480e37837:/# #!/bin/bash
+#!/bin/bash
 root@e88480e37837:/# printf "%.2f\n" "$NUM"
 0.00
-root@e88480e37837:/#
